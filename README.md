@@ -1,5 +1,5 @@
 # ExtVid
-**ExtVid** is the tool for **immersive video experience**.
+**ExtVid** is the tool for **immersive video experience** using OpenCV.
 
 
 Immersion for viewing video is strongly related with FoV (Field of View).
