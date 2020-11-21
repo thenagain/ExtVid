@@ -5,7 +5,7 @@ You can make your favorite video files more immersive.
 
 Only thing you need to have is an input video file.
 
-## Background and How it works
+## Background & How it works
 Immersion for viewing video is strongly related with FoV (Field of View).
 >"When a viewer’s entire field of view is filled, it creates a more immersive experience, increasing their enjoyment of the content."
 >L. Turban, F. Urban and P. Guillotel, "Extrafoveal Video Extension for an Immersive Viewing Experience," in IEEE Transactions on Visualization and Computer Graphics, vol. 23, no. 5, pp. 1520-1533, 1 May 2017, doi: [10.1109/TVCG.2016.2527649](10.1109/TVCG.2016.2527649)
