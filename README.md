@@ -15,6 +15,7 @@ But view angle of content should be under 45 angle, because of limitation of hum
 >Lee YC.N., Shan LT., Chen CH. (2013) System Development of Immersive Technology Theatre in Museum. In: Shumaker R. (eds) Virtual, Augmented and Mixed Reality. Systems and Applications. VAMR 2013. Lecture Notes in Computer Science, vol 8022. Springer, Berlin, Heidelberg. doi: [https://doi.org/10.1007/978-3-642-39420-1_42](https://doi.org/10.1007/978-3-642-39420-1_42)*
 
 <br>
+
 So best solution for immersive video experience is **extending video by context matched image**, as below.
 
 ![Before_After](/img/before_after.jpg)
